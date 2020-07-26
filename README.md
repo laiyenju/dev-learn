@@ -17,3 +17,7 @@
 - [Introduction to client-side frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction) by MDN
 
 ## UX Dev
+
+### Management
+
+- [產品思維：簡介兩種產品規劃 — Product Roadmap vs. GIST Planning](https://medium.com/pm-slashlife/%E7%94%A2%E5%93%81%E6%80%9D%E7%B6%AD-%E7%B0%A1%E4%BB%8B%E5%85%A9%E7%A8%AE%E7%94%A2%E5%93%81%E8%A6%8F%E5%8A%83-product-roadmap-vs-gist-planning-50b197c28190)
